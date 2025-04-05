@@ -40,6 +40,10 @@
     "multi-device",
     "bot"
   ],
+  "prisma": {
+  "schema": "prisma/schema.prisma"
+  },
+
   "author": {
     "name": "Davidson Gomes",
     "email": "contato@atendai.com"
